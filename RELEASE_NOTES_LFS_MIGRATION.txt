@@ -1,0 +1,1 @@
+Heads up — I rewrote history to migrate all .mp4 files into Git LFS and force-pushed main. Please re-clone the repository or reset your local branches: \n\nRecommended steps for collaborators:\n1) git fetch origin --all\n2) git switch main\n3) git reset --hard origin/main\n\nOr simply: git clone --depth=1 <repo-url>
